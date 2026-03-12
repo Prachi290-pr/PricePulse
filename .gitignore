@@ -1,0 +1,4 @@
+*.deb
+*.db
+*.pkl
+__pycache__/
